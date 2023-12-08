@@ -6,11 +6,6 @@ This project encapsulates a series of MATLAB scripts demonstrating a wide range 
 
 ## Key Concepts and Techniques
 
-### Image Resizing and Transformation
-- Custom image resizing (`custom_resize_function.m`).
-- Color space transformation: RGB to grayscale (`gray_level.m`).
-- Image scaling: both upscaling and downscaling (`up_down_scale.m`).
-
 ### Image Enhancement Techniques
 - Power-law (gamma) transformations (`power_law.m`).
 - Logarithmic transformations for brightness enhancement (`log_transform.m`).
